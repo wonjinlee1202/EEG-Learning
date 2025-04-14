@@ -1,8 +1,6 @@
 # 🧠 EEG Motor Movement Classification with Deep Learning
 
-This project implements deep learning models to classify different **motor movements** based on **EEG brain signal data**. We explore multiple neural network architectures, including **Convolutional Neural Networks (CNNs)** and **Recurrent Neural Networks (RNNs)**, to effectively model the temporal and spatial characteristics of EEG signals.
-
-Achieved over **80% testing accuracy** after careful data preprocessing and hyperparameter tuning.
+This project implements deep learning models to classify different motor movements based on EEG brain signal data. We explore multiple neural network architectures, including Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), to effectively model the temporal and spatial characteristics of EEG signals.
 
 ## Dependencies
 
