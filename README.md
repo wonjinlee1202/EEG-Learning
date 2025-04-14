@@ -4,8 +4,6 @@ This project implements deep learning models to classify different **motor movem
 
 Achieved over **80% testing accuracy** after careful data preprocessing and hyperparameter tuning.
 
----
-
 ## Dependencies
 
 Install the following Python packages before running the code:
@@ -14,15 +12,11 @@ Install the following Python packages before running the code:
 pip install numpy matplotlib scikit-learn tensorflow
 ```
 
----
-
 ## Data Preprocessing
 
 - Trimmed EEG data to first 800 time bins to reduce noise
 - Applied maxpooling, averaging, and subsampling (4-bin intervals)
 - Increased dataset size to boost generalization and reduce overfitting
-
----
 
 ## Model Architectures
 
